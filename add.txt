@@ -6,6 +6,3 @@ f
 g
 e
 f
-g
-h
-i
